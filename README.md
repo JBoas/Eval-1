@@ -9,3 +9,4 @@ RAM Fan-Controller
 Radiator LEDS
 HDMI DVI
 RYZEN ASUS
+MSI GIGABYTE
